@@ -79,4 +79,3 @@ Note:
 If you are using Mac or Linux, these fonts may not be installed by default. In that case, you will need to download and install the fonts manually.
 
 By following these steps, the fonts used in the code will be available and the application will run with a better experience.
-```
