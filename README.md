@@ -41,16 +41,29 @@ The following fonts are used in this game, you can download these fonts for a be
 ### How to download fonts:
 Algerian:
 ```
-This font is usually installed by default on Windows operating systems. If it is not installed on your system, you can download it from websites such as [DaFont](https://dl.dafont.com/dl/?f=algerian_concrete) or [FontSpace](https://www.fontspace.com/get/family/o9e).
+This font is usually installed by default on Windows operating systems. If it is not installed on your system, you can download it from websites such as
 ```
+[DaFont](https://dl.dafont.com/dl/?f=algerian_concrete)
+```or```
+[FontSpace](https://www.fontspace.com/get/family/o9e).
+
 MISTRAL:
 ```
-The MISTRAL font is also usually installed on Windows. If it is not installed on your system, you can download it from websites such as [DaFont](https://dl.dafont.com/dl/?f=misstral) or [FontSpace](https://www.fontspace.com/get/family/4llg2).
+The MISTRAL font is also usually installed on Windows. If it is not installed on your system, you can download it from websites such as
 ```
+[DaFont](https://dl.dafont.com/dl/?f=misstral)
+```or```
+[FontSpace](https://www.fontspace.com/get/family/4llg2).
+
 BLACKADDER ITC:
 ```
-This font is also usually installed on Windows. If it is not installed on your system, you can download it from websites such as [Cufon Fonts](https://www.cufonfonts.com/font/blackadder-itc) or [Free Font Download](https://www.freefontdownload.org/en/blackadder-itc-regular.font).
+This font is also usually installed on Windows. If it is not installed on your system, you can download it from websites such as
 ```
+[Cufon Fonts](https://www.cufonfonts.com/font/blackadder-itc)
+```or ```
+[Free Font Download](https://www.freefontdownload.org/en/blackadder-itc-regular.font).
+
+
 ### Steps to install fonts:
  - Download the desired font from one of the websites above.
  - Unzip the font file (if it is compressed).
